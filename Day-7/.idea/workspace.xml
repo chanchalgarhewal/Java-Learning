@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eeeb2f8e-3b78-49e6-85df-7ca3adffa1de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/Day-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/DoubleVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/ExplicitCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/GradeCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/MenuSkeleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/Day-2/src/StudentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/Day-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/src/CalculatorGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-3/Day-3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/Day-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/Day-4/src/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/Day-5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/src/ArmstrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/src/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/src/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/Day-8/src/StudentManagement.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chanchalgarhewal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chanchalgarhewal/Java-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;02eab376-227f-49e4-8582-4f4b060b03db&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BmuU98JcZM9wYArBuHzdU09Lxq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Replace.executor": "Run",
+    "Application.pen.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/coding/JavaLabCollege/Day-7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/coding/JavaLabCollege/Day-7/Day-7/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeeb2f8e-3b78-49e6-85df-7ca3adffa1de" name="Changes" comment="" />
+      <created>1775106581725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775106581725</updated>
+      <workItem from="1775106582811" duration="3842000" />
+      <workItem from="1775194092404" duration="776000" />
+      <workItem from="1775203775675" duration="160000" />
+      <workItem from="1775979012833" duration="795000" />
+      <workItem from="1775979831355" duration="1052000" />
+      <workItem from="1775980955661" duration="3000" />
+      <workItem from="1775990360589" duration="1878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
