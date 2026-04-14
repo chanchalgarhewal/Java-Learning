@@ -31,6 +31,7 @@ public class StudentResult {
                 System.out.println("Fail");
             }
 
+
             sc.close();
         }
     }
